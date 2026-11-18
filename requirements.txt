@@ -1,0 +1,4 @@
+# 下限版本（Python 3.10 以上）。要逐位元重現庫裡的衍生檔，改用 requirements-lock.txt（Python 3.12 以上）。
+matplotlib>=3.8
+numpy>=1.26
+scipy>=1.11

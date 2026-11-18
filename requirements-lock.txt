@@ -1,0 +1,15 @@
+# 作者重算本庫衍生檔時用的精確版本（macOS、Python 3.14.6 的虛擬環境，pip freeze 的結果）。
+# 用這份版本，RESULTS.md、data/cells.csv、data/jumps.csv、data/fit/ 才保證和庫裡的檔案逐位元相同。
+# numpy 2.5.5 與 scipy 1.18.1 需要 Python 3.12 以上；只想跑分析、不比對位元組的話，用 requirements.txt 的下限版本就夠。
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.68.0
+kiwisolver==1.5.1
+matplotlib==3.11.2
+numpy==2.5.5
+packaging==26.3
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==4.0.0
+scipy==1.18.1
+tzdata==2026.6

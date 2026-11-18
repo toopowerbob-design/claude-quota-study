@@ -1,0 +1,29 @@
+{
+ "n_constraints": 160,
+ "one": {
+  "feasible": false,
+  "extra_tolerance": 8.116023247666668,
+  "total_tolerance": 8.216023247666667
+ },
+ "model": {
+  "feasible": false,
+  "extra_tolerance": 0.6171485268795089,
+  "total_tolerance": 0.7171485268795089
+ },
+ "free": {
+  "feasible": false,
+  "extra_tolerance": 0.11819078123512511,
+  "total_tolerance": 0.21819078123512511
+ },
+ "lag": 0.0,
+ "lead": 60.0,
+ "slack": 0.1,
+ "unlogged": 0.0,
+ "rounding": "round",
+ "start": "free",
+ "n_samples": 318,
+ "last_sample_ts": "2026-11-17T17:45:09.810Z",
+ "mult_cr": [],
+ "mult_cw1h": [],
+ "mult_cw5m": []
+}

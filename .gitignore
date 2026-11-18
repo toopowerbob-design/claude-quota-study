@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+corpus/
+runs/
+scratch/
+*.log
+*.pid
+*.tmp
+.env*
+.DS_Store
